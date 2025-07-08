@@ -1,5 +1,5 @@
 -- ========== КОНФИГУРАЦИЯ ==========
-local BOT_TOKEN = "7589448582:AAHYcT5DWujUBvhDdx_zE1P-ljbncUS3aOs"  -- Token
+local BOT_TOKEN = ""  -- Token
 local ADMIN_CHAT_ID = 6712440322    -- ID
 local MAX_RETRIES = 3               -- Попытки проверки ключа
 local LICENSE_KEY = ""
